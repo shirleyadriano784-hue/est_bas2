@@ -1,6 +1,10 @@
 {
   "R": {
+<<<<<<< HEAD
     "Version": "4.5.0",
+=======
+    "Version": "4.6.1",
+>>>>>>> 86f45b8db1842115486ee4ada2ee5df4ecc0aeba
     "Repositories": [
       {
         "Name": "CRAN",
@@ -11,7 +15,11 @@
   "Packages": {
     "renv": {
       "Package": "renv",
+<<<<<<< HEAD
       "Version": "1.1.5",
+=======
+      "Version": "1.3.1",
+>>>>>>> 86f45b8db1842115486ee4ada2ee5df4ecc0aeba
       "Source": "Repository",
       "Type": "Package",
       "Title": "Project Environments",
@@ -29,6 +37,10 @@
         "compiler",
         "covr",
         "cpp11",
+<<<<<<< HEAD
+=======
+        "curl",
+>>>>>>> 86f45b8db1842115486ee4ada2ee5df4ecc0aeba
         "devtools",
         "generics",
         "gitcreds",
@@ -39,6 +51,10 @@
         "modules",
         "packrat",
         "pak",
+<<<<<<< HEAD
+=======
+        "pkgload",
+>>>>>>> 86f45b8db1842115486ee4ada2ee5df4ecc0aeba
         "R6",
         "remotes",
         "reticulate",
@@ -52,12 +68,19 @@
         "webfakes"
       ],
       "Encoding": "UTF-8",
+<<<<<<< HEAD
       "RoxygenNote": "7.3.2",
+=======
+>>>>>>> 86f45b8db1842115486ee4ada2ee5df4ecc0aeba
       "VignetteBuilder": "knitr",
       "Config/Needs/website": "tidyverse/tidytemplate",
       "Config/testthat/edition": "3",
       "Config/testthat/parallel": "true",
       "Config/testthat/start-first": "bioconductor,python,install,restore,snapshot,retrieve,remotes",
+<<<<<<< HEAD
+=======
+      "Config/roxygen2/version": "8.0.0",
+>>>>>>> 86f45b8db1842115486ee4ada2ee5df4ecc0aeba
       "NeedsCompilation": "no",
       "Author": "Kevin Ushey [aut, cre] (ORCID: <https://orcid.org/0000-0003-2880-7407>), Hadley Wickham [aut] (ORCID: <https://orcid.org/0000-0003-4757-117X>), Posit Software, PBC [cph, fnd]",
       "Maintainer": "Kevin Ushey <kevin@rstudio.com>",

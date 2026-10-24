@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
   "bioconductor.version": null,
   "external.libraries": [],
   "ignored.packages": [],
+=======
+  "bioconductor.enabled": true,
+  "bioconductor.version": null,
+  "external.libraries": [],
+  "ignored.packages": [],
+  "lockfile.sanitize": true,
+>>>>>>> 86f45b8db1842115486ee4ada2ee5df4ecc0aeba
   "package.dependency.fields": [
     "Imports",
     "Depends",
@@ -10,6 +18,10 @@
   "ppm.enabled": null,
   "ppm.ignored.urls": [],
   "r.version": null,
+<<<<<<< HEAD
+=======
+  "snapshot.dev": false,
+>>>>>>> 86f45b8db1842115486ee4ada2ee5df4ecc0aeba
   "snapshot.type": "explicit",
   "use.cache": true,
   "vcs.ignore.cellar": true,
